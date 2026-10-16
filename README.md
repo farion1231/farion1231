@@ -1,5 +1,4 @@
-[![Jason Young's GitHub stats](https://github-stats-extended.vercel.app/api?username=farion1231)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/farion1231?variant=radar&theme=dark&lang=zh)](https://ghfind.com/u/farion1231?ref=badge)
 <!--
 **farion1231/farion1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
